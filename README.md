@@ -22,15 +22,15 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/KevinPadi/NFT-card-component/
+- Live Site URL: https://kevinpadi.github.io/NFT-card-component/
 
 ### Built with
 
 - CSS
 - Flexbox
 - [React](https://reactjs.org/) - JS library
-- [Vite] (https://vitejs.dev/) 
+- [Vite](https://vitejs.dev/) - Scaffolding tool
 
 ## Author
 
