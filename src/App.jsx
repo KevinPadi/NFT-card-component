@@ -6,7 +6,7 @@ export function  App () {
       <div className="img-cntr">
           <img className='img' src="./images/image-equilibrium.jpg" alt="equilibrium nft image" />
           <div>
-            <img className='icon-view' src="/icons/icon-view.svg" alt="icon view" />
+            <img className='icon-view' src="icons/icon-view.svg" alt="icon view" />
           </div>
       </div>
       <main className="main-cntr">
@@ -25,7 +25,7 @@ export function  App () {
       </main>
       <hr />
       <footer className='footer'>
-        <img className="avatar" src="../images/image-avatar.png" alt="avatar" />
+        <img className="avatar" src="./images/image-avatar.png" alt="avatar" />
         <span className="footer-text">Creation of <span className="footer-text-name">Jules Wyvern</span>
         </span>
       </footer>
